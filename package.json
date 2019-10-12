@@ -1,0 +1,27 @@
+{
+  "name": "bidrequest",
+  "version": "1.0.0",
+  "description": "BidRequest service",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/izzy-va-code/BidRequest.git"
+  },
+  "keywords": [
+    "bidrequest"
+  ],
+  "author": "Vladyslav Izuita",
+  "license": "Beerware",
+  "bugs": {
+    "url": "https://github.com/izzy-va-code/BidRequest/issues"
+  },
+  "homepage": "https://github.com/izzy-va-code/BidRequest#readme",
+  "dependencies": {
+    "fastify": "^2.9.0",
+    "fs": "0.0.1-security",
+    "request": "^2.88.0"
+  }
+}
