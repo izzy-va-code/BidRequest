@@ -1,6 +1,6 @@
 {
   "$schema": "http://json-schema.org/draft-04/schema#",
-  "$id": "./request-schema.json",
+  "$id": "https://github.com/kubient/openRTB-JSON-Schema/raw/master/Request/request-schema.json",
   "title" : "OpenRTB 2.5 JSON Schema",
   "description" : "OpenRTB 2.5 JSON Schema for Validation Purposes Only",
   "definitions" : {
